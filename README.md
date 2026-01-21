@@ -70,3 +70,6 @@ Slicers are added to filter data by region and category for better interactivity
 ## Conclusion
 
 The project reflects a real-world sales analysis workflow and can be extended further with additional KPIs or tools.
+
+<img width="1200" height="500" alt="simple_sales_dashboard" src="https://github.com/user-attachments/assets/2b3d8f9d-126f-41e1-9bd7-d6bf3fc9feb8" />
+
